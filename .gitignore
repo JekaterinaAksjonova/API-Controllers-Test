@@ -50,3 +50,35 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio / Rider generated files
+bin/
+obj/
+
+# Visual Studio / Rider temporary files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+*.ide/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Roslyn cache files
+*.ide
+# files ending in .cache can be ignored
+*.cache
+# but keep track of directories ending in .cache
+# !.gitignore can handle that
+!*/
+
