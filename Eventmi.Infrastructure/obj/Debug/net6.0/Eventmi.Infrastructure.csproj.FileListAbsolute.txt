@@ -1,0 +1,14 @@
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.deps.json
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.runtimeconfig.json
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfo.cs
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\refint\Eventmi.Infrastructure.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.genruntimeconfig.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Infrastructure\obj\Debug\net6.0\ref\Eventmi.Infrastructure.dll

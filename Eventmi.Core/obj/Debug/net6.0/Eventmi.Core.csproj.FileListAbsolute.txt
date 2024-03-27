@@ -1,0 +1,15 @@
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.deps.json
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.pdb
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.AssemblyReference.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfoInputs.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfo.cs
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CoreCompileInputs.cache
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi..108DBD70.Up2Date
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\refint\Eventmi.Core.dll
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.pdb
+C:\Users\katia\OneDrive\Рабочий стол\Eventmi-AppSkeleton\Eventmi.Core\obj\Debug\net6.0\ref\Eventmi.Core.dll
